@@ -13,3 +13,4 @@ Algunas webs permitidas para realizar la acción:
 https://belohorizonteuniversal.com & https://acordasalvador.com & https://riodejaneiro-24h.com http://prensaescrita.cl & http://altavozchile.cl & http://elitesaopaulo.com http://provincialnoticias.cl http://correiorecife.com http://meganoticiaschile.com http://avozdocidadao.com + http://informativosaopaulo.com + http://noticiascondifenciais.com http://asturias24h.com/ + http://bermer.es/ + http://cadiz24h.com/
 
 http://castillalamancha24h.com/ + http://cordoba24h.com/ + http://diarioalbacete.com/ + http://eldiariodejerez.com/ http://extremadura24h.com + http://larioja24h.com + http://malaga-24h.com + http://murcia-24h.com
+http://palencia24h.com + http://red-financiera.com + http://sansebastian24h.com + http://santander24horas.com
